@@ -9,7 +9,7 @@ tempGame = {
   startTime: new Date().getTime(),
   number: D(0),
   rebootNum: D(0),
-  base: D(65536),
+  base: D(512),
   digits: D(1),
   mDigits: D(25),
   tLast: new Date().getTime(),
