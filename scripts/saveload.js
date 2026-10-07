@@ -11,7 +11,7 @@ tempGame = {
   rebootNum: D(1e220),
   base: D(65535),
   maxbase: D(100000)
-  digits: D(1),
+  digits: D(10),
   mDigits: D(547938923),
   tLast: new Date().getTime(),
   programActive: new Array(15).fill(0),
